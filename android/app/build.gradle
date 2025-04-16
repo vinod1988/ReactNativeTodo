@@ -93,6 +93,9 @@ android {
             keyPassword 'android'
         }
     }
+    project.ext.react = [
+    enableHermes: true  // 👈 Required
+]
     buildTypes {
         debug {
             signingConfig signingConfigs.debug

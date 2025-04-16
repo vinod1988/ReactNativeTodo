@@ -95,3 +95,20 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+## 📱 App Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="ss/Todo-Exmaple1.jpg" alt="Todo Example 1" width="300" />
+      <br/>
+      <strong>Todo Example 1</strong>
+    </td>
+    <td align="center">
+      <img src="ss/TodoExample2.jpg" alt="Todo Example 2" width="300" />
+      <br/>
+      <strong>Todo Example 2</strong>
+    </td>
+  </tr>
+</table>
